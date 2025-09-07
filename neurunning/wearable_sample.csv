@@ -1,0 +1,7 @@
+session_id,participant_id,hr,rr_interval_ms,duration_min,distance_km,run_type
+1,1,140,850,45,8.2,Interval
+1,1,150,820,45,8.2,Interval
+2,1,135,880,60,10.0,LSD
+2,1,140,870,60,10.0,LSD
+3,2,145,860,50,9.0,Fartlek
+3,2,150,840,50,9.0,Fartlek
